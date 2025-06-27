@@ -101,7 +101,7 @@ body {
 /* sección de tarjetas */
 .cards-container {
     padding: 3rem;
-    background: #f9f9f9;
+    background: #d5ad62;
 }
 
 .cards-container h2 {
@@ -118,7 +118,7 @@ body {
 }
 
 .card {
-    background: #fff;
+    background: #eabe60;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden;
@@ -277,6 +277,22 @@ body {
 }
 
 .about-section p {
+    font-size: 1.3rem;
+}
+/* Sección horario de atencion */
+.date-section {
+    padding: 3rem;
+    text-align: center;
+    background: rgb(124, 79, 29);
+    color: black;
+}
+
+.date-section h2 {
+    margin-bottom: 1.5rem;
+    font-size: 2.5rem;
+}
+
+.date-section p {
     font-size: 1.3rem;
 }
 
