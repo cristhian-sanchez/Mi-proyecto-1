@@ -66,7 +66,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 90vh;
-    background: lightgray no-repeat center/cover;
+    background: #d5ad62;
     color: rgb(8, 8, 8);
     text-align: center;
     padding: 2rem;
@@ -267,7 +267,7 @@ body {
 .about-section {
     padding: 3rem;
     text-align: center;
-    background: white;
+    background: #d5ad62;
     color: black;
 }
 
@@ -283,7 +283,7 @@ body {
 /* pie de página */
 footer {
     padding: 1.5rem;
-    background: rgb(124, 79, 29);
+    background: black;
     color: white;
     text-align: center;
     font-size: 1rem;
