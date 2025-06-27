@@ -132,8 +132,9 @@ body {
 }
 
 .card img {
-    width: 100%;
+    width: 75%;
     height: auto;
+    border-radius: 7px;
 }
 
 .card h3 {
@@ -144,6 +145,9 @@ body {
 .card p {
     padding: 0 1rem 1rem;
     font-size: 0.9rem;
+}
+.card li {
+    margin: 5px;
 }
 
 /* Seccion de contacto */
